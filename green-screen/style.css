@@ -1,0 +1,19 @@
+body{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 150px;
+}
+
+input{
+    width: 50%;
+    height: 50vh;
+}
+
+button{
+   text-transform: uppercase;
+   font-size: 30px; 
+}
